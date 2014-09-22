@@ -1,3 +1,0 @@
-LogTimer
-========
-batata
