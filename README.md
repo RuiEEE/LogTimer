@@ -1,6 +1,6 @@
 LogTimer
 ========
-LogTimer is a simple android library to help you track time of small (or long) operations within Android with the use of the Shared Preferences and log the values to the LogCat.
+LogTimer is a simple android library to help you track time of small (or long) operations such as logins, database insertions/updates or activity loading within Android with the use of the Shared Preferences and log the values to the LogCat.
 
 How to install
 ==============
