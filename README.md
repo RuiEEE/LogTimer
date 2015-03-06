@@ -20,7 +20,7 @@ LogTimer has 3 mainfunctions.
 3. stopTimer()
 	- stops the timer
 	
-In these function calls a string can be specified to change the name of the timer.
+In these function calls, a string can be specified to change the name of the timer.
 <pre><code>LogTimer.getInstance(context).startTimer("usage_test");
 Thread.sleep(100);
 LogTimer.getInstance(context).checkPoint("usage_test");
